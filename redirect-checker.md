@@ -102,7 +102,7 @@ This modified version will check for redirects on both HTTP and HTTPS protocols 
 
 ***
 
-Modification 2
+## Modification 2
 
 Modify the script to follow redirect chains for both HTTP and HTTPS. To do this you can use the requests library, which handles redirects more elegantly than urllib2. Here's an updated version of the script:
 
